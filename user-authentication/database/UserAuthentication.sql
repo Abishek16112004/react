@@ -93,7 +93,6 @@ INSERT INTO `users` (`id`, `firstName`, `lastName`, `email`, `phoneNumber`, `pas
 --
 -- Indexes for dumped tables
 --
-
 --
 -- Indexes for table `users`
 --
